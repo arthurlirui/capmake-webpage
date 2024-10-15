@@ -13,3 +13,6 @@ main:
   - name: App
     url: application/
     weight: 30
+  - name: About
+    url: about/
+    weight: 40
