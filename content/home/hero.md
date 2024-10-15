@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: Build and Publish your fancy 3D NFT. 
 hero_media: book.svg
 design:
   background:
@@ -28,4 +28,4 @@ Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 Write something interesting about your project here.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/arthurlirui/capmake" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Capmake">Building Photo-realistic 3D Model by Capmake.</a><br><a class="github-button" href="https://github.com/arthurlirui/artnft3d-pub" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Publish Your Photo-realistic NFT to APT.">Star Publishing 3D NFT to APTS.</a><script async defer src="https://buttons.github.io/buttons.js"></script>
