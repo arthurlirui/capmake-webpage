@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Build and Publish your fancy 3D NFT. 
-hero_media: book.svg
+hero_media: artnft3d-logo.jpg
 design:
   background:
     gradient_start: '#4bb4e3'
